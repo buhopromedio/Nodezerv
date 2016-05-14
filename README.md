@@ -1,0 +1,2 @@
+# Nodezerv
+node serve
